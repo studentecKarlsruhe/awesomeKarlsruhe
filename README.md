@@ -13,4 +13,4 @@ Up to now we have gathered information on the following topics:
 
 Disclaimer: This is a list built up from experiences and personal preferences, there may be many other ideas, tipps and tricks, or places to mention in the different sections. If you know some, feel free to [contribute](contributing.md)!
 
-Brought to you by [studentec](www.studentec.de).
+Brought to you by [studentec](https://www.studentec.de).
