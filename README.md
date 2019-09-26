@@ -1,6 +1,6 @@
 # Awesome List for Students in Karlsruhe
 
-Are you new to Karlsruhe? Or an old hand looking for new ideas? Then you've come to the right place! This list contains a lot of insider knowledge for you! If you would like to contribute to this list, you are welcome to do so! Please follow the rules that are written in the contribution file.
+Are you new to Karlsruhe? Or an old hand looking for new ideas? Then you've come to the right place! This list contains a lot of insider knowledge for you! If you would like to contribute to this list, you are welcome to do so! Please follow the rules that are written in the [contribution file](contributing.md).
 
 Up to now we have gathered information on the following topics:
 
@@ -11,6 +11,6 @@ Up to now we have gathered information on the following topics:
 * No more space in the Bib? Have a look at our ideas for [learning places](learning_places.md)! Better not tell too many people...
 * You made it to the first [date](dates.md), and now you're missing the ideas? We have collected some for you here!
 
-Disclaimer: This is a list built up from experiences and personal preferences, there may be many other ideas, tipps and tricks, or places to mention in the different sections. If you know some, feel free to contribute!
+Disclaimer: This is a list built up from experiences and personal preferences, there may be many other ideas, tipps and tricks, or places to mention in the different sections. If you know some, feel free to [contribute](contributing.md)!
 
 Brought to you by [studentec](www.studentec.de).
