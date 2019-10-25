@@ -10,6 +10,7 @@ Up to now we have gathered information on the following topics:
 * [Activities](activities.md) to do with yourself, your friends or your significant other.
 * No more space in the Bib? Have a look at our ideas for [learning places](learning_places.md)! Better not tell too many people...
 * You made it to the first [date](dates.md), and now you're missing the ideas? We have collected some for you here!
+* Have a look at these [software tools](software_tools.md) to improve your everyday life!
 
 Disclaimer: This is a list built up from experiences and personal preferences, there may be many other ideas, tipps and tricks, or places to mention in the different sections. If you know some, feel free to [contribute](contributing.md)!
 
