@@ -11,7 +11,7 @@ There are many different possibilities for a date in Karlsruhe, have fun explori
 * Squash
 * Bouldering
 * Climbing
-* [Schauburg](http://www.schauburg.de/)
+* (Sneak Preview at) [Schauburg](http://www.schauburg.de/)
 * [ZKM](https://zkm.de/de)
 * [Staatstheater](https://www.staatstheater.karlsruhe.de/), rembember to ask for student's discount!
 * Volleyball
