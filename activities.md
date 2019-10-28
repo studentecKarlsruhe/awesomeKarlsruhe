@@ -24,6 +24,7 @@ We collected some of our favourite activities to do in and around Karlsruhe - ap
 * Learn together
 * Going to the bib together
 * [ZKM](https://zkm.de/de)
+* (Sneak Preview at) [Schauburg](http://www.schauburg.de/)
 * Shopping
 * Cabaret
 * [Mariannes Flammkuchen](https://www.mariannes-flammkuchen.de/restaurant-karlsruhe/)
