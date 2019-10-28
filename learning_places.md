@@ -21,3 +21,4 @@ Bib is crowded but you have not lost your motivation yet? Great! Check out these
 * [AKK](https://www.akk.org/)
 * [Z10](https://z10.info/)
 * [Zoo](https://www.karlsruhe.de/b3/freizeit/zoo.de)
+* [MINT-Kolleg](https://www.mint-kolleg.kit.edu)
