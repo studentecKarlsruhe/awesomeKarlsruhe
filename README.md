@@ -12,6 +12,8 @@ Up to now we have gathered information on the following topics:
 * You made it to the first [date](dates.md), and now you're missing the ideas? We have collected some for you here!
 * Have a look at these [software tools](software_tools.md) to improve your everyday life!
 
+You may also have a look at [Bock auf Karlsruhe](https://www.bockaufkarlsruhe.de/) where you will find information on ongoing events in Karlsruhe.
+
 Disclaimer: This is a list built up from experiences and personal preferences, there may be many other ideas, tipps and tricks, or places to mention in the different sections. If you know some, feel free to [contribute](contributing.md)!
 
 Brought to you by [studentec](https://www.studentec.de).
